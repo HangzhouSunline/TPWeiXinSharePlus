@@ -1,0 +1,6 @@
+framework module TPWeiXinSharePlus {
+  umbrella header "TPWeiXinSharePlus.h"
+
+  export *
+  module * { export * }
+}
